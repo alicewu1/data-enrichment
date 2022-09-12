@@ -98,7 +98,7 @@ sparcs_small = sparcs [[
     'Total_Charges',
     'Total_Costs']]
 
-print(neighborhood_small.sample(10).to_markdown())
+print(neighborhood_small.sample(10).to_markdown()) # displays df in compressed format
 neighborhood_small.shape 
 print(sparcs_small.sample(10).to_markdown())
 sparcs_small.shape

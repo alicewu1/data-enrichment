@@ -13,7 +13,8 @@ This repo aims to enrich a Hospital Inpatient Discharges (SPARCS) 2015 csv with 
 
 
 **Errors:**
-The .csv files stored in data folder exceeded GitHub's File size and cannot be uploaded (screenshot included) and added to .gitignore file:
+The .csv files stored in data folder exceeded GitHub's file size and cannot be uploaded (screenshot included).
+Data files added to .gitignore file:
 
 1. 'neighborhood_atlas_ny_2019.csv'
 2. 'SPARCS.csv'
