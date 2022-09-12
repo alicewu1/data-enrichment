@@ -1,4 +1,4 @@
-c## python -m venv . (to create venv in current directory) 
+## python -m venv . (to create venv in current directory) 
 ## fixed my python compatibility error
 
 import pandas as pd
