@@ -15,6 +15,6 @@ Datasets Used:
 Errors:
 The .csv files stored in data folder exceeded GitHub's File size and cannot be uploaded (screenshot included) and was removed from the repo:
 
--'neighborhood_atlas_ny_2019.csv'
--'SPARCS.csv'
--'enriched_SPARCS.csv'
+1. 'neighborhood_atlas_ny_2019.csv'
+2. 'SPARCS.csv'
+3. 'enriched_SPARCS.csv'
